@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Test-Varnish
-version:            0.01
-abstract:           The great new Test::Varnish!
+version:            0.02
+abstract:           Put your Varnish server to the test!
 author:
     - Cosimo Streppone <cosimo@cpan.org>
 license:            unknown
